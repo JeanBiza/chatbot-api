@@ -1,0 +1,44 @@
+{
+    "faqs": [
+        {
+            "question": "How do I reset my password?",
+            "answer": "To reset your password, go to the login page and click 'Forgot Password'. Enter your email address and we'll send you a reset link within a few minutes."
+        },
+        {
+            "question": "How do I contact support?",
+            "answer": "You can contact our support team by emailing support@company.com or calling 1-800-SUPPORT Monday through Friday, 9 AM to 6 PM EST."
+        },
+        {
+            "question": "What are your business hours?",
+            "answer": "Our support team is available Monday through Friday, 9 AM to 6 PM EST. For urgent issues outside business hours, please email emergency@company.com."
+        },
+        {
+            "question": "How do I cancel my subscription?",
+            "answer": "To cancel your subscription, go to Account Settings > Subscription > Cancel Plan. Your access will remain active until the end of your billing period."
+        },
+        {
+            "question": "How do I update my billing information?",
+            "answer": "Go to Account Settings > Billing > Update Payment Method. We accept all major credit cards and PayPal."
+        },
+        {
+            "question": "My account is locked, what do I do?",
+            "answer": "Accounts are locked after 5 failed login attempts. Wait 30 minutes for it to unlock automatically, or contact support to unlock it immediately."
+        },
+        {
+            "question": "How do I download my invoice?",
+            "answer": "Log in to your account, go to Account Settings > Billing > Invoice History, and click Download next to the invoice you need."
+        },
+        {
+            "question": "Is my data secure?",
+            "answer": "Yes, we use industry-standard AES-256 encryption for all stored data and TLS 1.3 for data in transit. We are SOC 2 Type II certified."
+        },
+        {
+            "question": "How do I upgrade my plan?",
+            "answer": "Go to Account Settings > Subscription > Upgrade Plan. Changes take effect immediately and you'll be charged a prorated amount for the remainder of the billing period."
+        },
+        {
+            "question": "I'm not receiving emails from your service, what should I do?",
+            "answer": "Check your spam or junk folder first. If emails aren't there, make sure support@company.com is in your contacts. If the issue persists, contact support."
+        }
+    ]
+}
